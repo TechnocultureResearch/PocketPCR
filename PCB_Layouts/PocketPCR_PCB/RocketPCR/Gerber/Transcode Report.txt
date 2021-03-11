@@ -1,0 +1,84 @@
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\Gerber\RocketPCR-B.Paste.gbr' ----   Wed Mar 10 17:36:53 2021
+
+D10   --> D100
+D11   --> D101
+D12   --> D102
+D13   --> D103
+D14   --> D104
+D15   --> D105
+D16   --> D106
+D17   --> D107
+D18   --> D108
+D19   --> D109
+D20   --> D110
+D21   --> D111
+D23   --> D112
+D24   --> D113
+D25   --> D114
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\Gerber\RocketPCR-B.SilkS.gbr' ----   Wed Mar 10 17:36:53 2021
+
+D10   --> D115
+D11   --> D116
+D12   --> D117
+D13   --> D118
+D14   --> D119
+D15   --> D120
+D16   --> D121
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\Gerber\RocketPCR-Edge.Cuts.gbr' ----   Wed Mar 10 17:36:55 2021
+
+D10   --> D26
+D11   --> D122
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\Gerber\RocketPCR-F.Cu.gbr' ----   Wed Mar 10 17:36:55 2021
+
+D10   --> D123
+D11   --> D124
+D12   --> D125
+D13   --> D126
+D14   --> D127
+D15   --> D128
+D16   --> D129
+D18   --> D130
+D19   --> D131
+D20   --> D132
+D21   --> D133
+D22   --> D134
+D23   --> D135
+D24   --> D136
+D25   --> D137
+D26   --> D138
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\Gerber\RocketPCR-F.Mask.gbr' ----   Wed Mar 10 17:36:55 2021
+
+D10   --> D139
+D11   --> D140
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\Gerber\RocketPCR-F.Paste.gbr' ----   Wed Mar 10 17:36:55 2021
+
+D10   --> D141
+D11   --> D142
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\Gerber\RocketPCR-F.SilkS.gbr' ----   Wed Mar 10 17:36:55 2021
+
+D10   --> D143
+D11   --> D144
+D12   --> D145
+D13   --> D146
+D14   --> D147
+-----------------------------------------------------------------

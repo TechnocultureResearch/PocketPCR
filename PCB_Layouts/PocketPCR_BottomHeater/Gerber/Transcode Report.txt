@@ -1,0 +1,12 @@
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_BottomHeater\Gerber\BottomHeater-F.Cu.gbr' ----   Wed Mar 10 17:44:20 2021
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_BottomHeater\Gerber\BottomHeater-F.Paste.gbr' ----   Wed Mar 10 17:44:20 2021
+
+D10   --> D101
+-----------------------------------------------------------------

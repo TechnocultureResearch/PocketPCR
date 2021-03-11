@@ -1,0 +1,113 @@
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-B.Cu.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D10   --> D148
+D11   --> D149
+D12   --> D150
+D13   --> D151
+D14   --> D152
+D15   --> D153
+D16   --> D154
+D17   --> D155
+D18   --> D156
+D19   --> D157
+D20   --> D158
+D21   --> D159
+D22   --> D160
+D23   --> D161
+D24   --> D162
+D25   --> D163
+D26   --> D164
+D28   --> D165
+D29   --> D166
+D30   --> D167
+D31   --> D168
+D32   --> D169
+D33   --> D170
+D34   --> D171
+D35   --> D172
+D36   --> D173
+D37   --> D174
+D38   --> D175
+D39   --> D176
+D40   --> D177
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-B.Paste.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D10   --> D178
+D11   --> D179
+D12   --> D180
+D13   --> D181
+D14   --> D182
+D15   --> D183
+D16   --> D184
+D17   --> D185
+D18   --> D186
+D19   --> D187
+D20   --> D188
+D22   --> D189
+D23   --> D190
+D24   --> D191
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-B.SilkS.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D10   --> D192
+D11   --> D193
+D12   --> D194
+D13   --> D195
+D14   --> D196
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-Edge.Cuts.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D10   --> D197
+D11   --> D198
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-F.Cu.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D10   --> D199
+D11   --> D200
+D12   --> D201
+D13   --> D202
+D14   --> D203
+D15   --> D204
+D17   --> D205
+D18   --> D206
+D19   --> D207
+D20   --> D208
+D21   --> D209
+D22   --> D210
+D23   --> D211
+D24   --> D212
+D25   --> D213
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-F.Mask.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D10   --> D214
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-F.Paste.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D11   --> D215
+D12   --> D216
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'E:\Pocket PCR\Github\PocketPCR\PCB_Layouts\PocketPCR_PCB\RocketPCR\SVG\RocketPCR-F.SilkS.gbr' ----   Wed Mar 10 17:39:19 2021
+
+D10   --> D217
+D11   --> D218
+D12   --> D219
+D13   --> D220
+-----------------------------------------------------------------
